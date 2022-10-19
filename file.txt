@@ -1,0 +1,12 @@
+
+              <div id="c1001" class="d-flex"> <!-- flex layout -->
+                <div class="flex-shrink-0"> <!-- disallow div to shrink when page gets smaller -->
+                  <svg height="100" width="100">
+                    <circle cx="50" cy="50" r="40" fill="grey">
+                  </circle></svg>
+                </div>
+                <div class="flex-grow-1"> <!-- allow div to grow and take up all space -->
+                  <h5>wychen9@cse.cuhk.edu.hk</h5>
+                  <p>Feel free to leave your comments here~</p>
+                </div>
+              </div><div class="d-flex" id="c1002"><div class="flex-shrink-0 mb-3"><svg height="100" width="100"><circle cx="50" cy="50" r="40" fill="blue"></circle></svg></div><div class="flex-grow-1"><h5>user1@test.com</h5><p>A comment for test~</p></div></div>

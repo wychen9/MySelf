@@ -1,0 +1,72 @@
+/*
+ * CSCI2720/ESTR2106 Assignment 1
+ * Bootstrap Web Page with a Web Form
+ *
+ * I declare that the assignment here submitted is original
+ * except for source material explicitly acknowledged,
+ * and that the same or closely related material has not been
+ * previously submitted for another course.
+ * I also acknowledge that I am aware of University policy and
+ * regulations on honesty in academic work, and of the disciplinary
+ * guidelines and procedures applicable to breaches of such
+ * policy and regulations, as contained in the website.
+ *
+ * University Guideline on Academic Honesty:
+ *   http://www.cuhk.edu.hk/policy/academichonesty
+ * Faculty of Engineering Guidelines to Academic Honesty:
+ *   https://www.erg.cuhk.edu.hk/erg/AcademicHonesty
+ *
+ * Student Name: Chen Weiyu
+ * Student ID  : 1155141421
+ * Date        : 13/10/2022
+ */
+ 
+a{
+    color: black
+}
+
+a:hover{
+    color:grey
+}
+
+.nav-link{
+    color: grey
+}
+
+.nav-link:hover{
+    color: white;
+}
+
+.footerLink {
+  color: white
+}
+.footerLink:hover{
+    color:grey
+}
+
+header{
+  background: url("./background.jpg");
+  background-size: cover;
+}
+
+/* @font-face {
+   font-family: myFirstFont;
+   src: url("./SansationLight.woff");
+} */
+
+* {
+   font-family: 'Fuzzy Bubbles';
+   /* font-size: 22px; */
+}
+
+#barCont{
+  visibility: hidden;
+}
+
+/* #progressBar{
+  progress-bar-color: dark;
+} */
+
+.darkmode{
+  color: white;
+}
