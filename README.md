@@ -1,2 +1,2 @@
 # MySelf
-A github for self-webpage
+A github for personal webpage
